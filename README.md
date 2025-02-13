@@ -1,13 +1,9 @@
 # Seed Dropping Using Drone (AI and IoT Integration)
 This project demonstrates a fully functional seed-dropping drone system using AI and IoT technologies. The system utilizes a camera-equipped drone to identify suitable seed-dropping locations and avoid inappropriate areas such as water bodies, obstacles, or unsuitable landforms.
 
-<div align="center">
-  <img src="aiiot2.jpeg" alt="Drone Mechanism" width="400">
-</div>
-<div align="center">
-  <img src="aiiot3.jpeg" alt="Drone Mechanism" width="400">
-</div>
----
+| <img src="aiiot3.jpeg" alt="Drone Mechanism" width="300"> | <img src="aiiot2.jpeg" alt="Seed Dropping Mechanism" width="300"> | <img src="aiiot1.jpeg" alt="Seed Dropping Mechanism" width="300">
+|-----------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------|
+
 
 ## 🔍 **Project Overview**
 
@@ -44,12 +40,18 @@ This system leverages:
 ### 1. **Drone Body**
 The drone is designed with lightweight materials for enhanced mobility and battery efficiency.
 
-![Drone Mechanism](aiiot3.jpeg)
+<div align="center">
+  <img src="aiiot3.jpeg" alt="Drone Mechanism" width="400">
+</div>
+
 
 ### 2. **Seed Dropping Mechanism**
 A custom 3D-printed attachment (shown below) is used for seed dropping. It is integrated with a motor to release seeds when commanded by the AI model’s decision.
 
-![Seed Dropping Mechanism](aiiot2.jpeg)
+<div align="center">
+  <img src="aiiot2.jpeg" alt="Drone Mechanism" width="400">
+</div>
+
 
 ### 3. **Camera and Sensors**
 The drone is equipped with a high-resolution camera and obstacle-detection sensors for real-time environment monitoring.
