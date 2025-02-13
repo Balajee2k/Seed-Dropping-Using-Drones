@@ -1,7 +1,6 @@
 # Seed Dropping Using Drone (AI and IoT Integration)
 This project demonstrates a fully functional seed-dropping drone system using AI and IoT technologies. The system utilizes a camera-equipped drone to identify suitable seed-dropping locations and avoid inappropriate areas such as water bodies, obstacles, or unsuitable landforms.
 
-![Drone Image](aiiot2.jpeg) 
 <div align="center">
   <img src="aiiot2.jpeg" alt="Drone Mechanism" width="400">
 </div>
