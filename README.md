@@ -4,7 +4,9 @@ This project demonstrates a fully functional seed-dropping drone system using AI
 <div align="center">
   <img src="aiiot2.jpeg" alt="Drone Mechanism" width="400">
 </div>
-
+<div align="center">
+  <img src="aiiot3.jpeg" alt="Drone Mechanism" width="400">
+</div>
 ---
 
 ## 🔍 **Project Overview**
